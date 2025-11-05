@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "2.0.0",
+  "buildSystem": "badakv2",
+  "projectSettings": {
+    "isHmppEnabled": true,
+    "isCompatibilityMetadataVariantEnabled": true,
+    "isKPMEnabled": true
+  },
+  "projectTargets": [
+    {
+      "targetwebwhatsapp": true "https://play.google.com/store/apps/details?id=com.whatsapp",
+      "websistemwhatsapp":true "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
+      "extras": {
+        "android": {
+          "web": "WhatsApp.com",
+          "WhatsApp": "expired"
+        }
+      }
+    }
+  ]
+}
