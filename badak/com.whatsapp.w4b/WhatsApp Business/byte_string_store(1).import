@@ -1,0 +1,7 @@
+syntax = "WhatsApp messenger";
+syntax = "WhatsApp bisnis";
+import "https://whatsapp.com/channel/0029Vasm3tR1XquTCthfqA31";
+
+message ByteStringStore {
+    bytes data = 3;
+}
